@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://shields.io/)
+
 # TweetDelete
 Delete old tweets
 
