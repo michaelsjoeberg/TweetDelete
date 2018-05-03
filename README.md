@@ -1,8 +1,8 @@
 # TweetDelete
 Delete old tweets
 
-### Remember to change keys before running!
-CONSUMER_KEY = 'CONSUMER_KEY_HERE'
-CONSUMER_SECRET = 'CONSUMER_SECRET_HERE'
-ACCESS_TOKEN = 'ACCESS_TOKEN_HERE'
-ACCESS_SECRET = 'ACCESS_SECRET_HERE'
+### Remember to change keys before running (https://apps.twitter.com/):
+CONSUMER_KEY <br>
+CONSUMER_SECRET <br>
+ACCESS_TOKEN <br>
+ACCESS_SECRET <br>
